@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/ViewProduct/{id}
+POST /user/ViewPesticide/{id}
 ```
 
 ## Request Headers

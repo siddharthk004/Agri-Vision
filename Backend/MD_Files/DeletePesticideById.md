@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/DeletePesticide/{id}
+DELETE /user/DeletePesticide/{id}
 ```
 
 ## Request Headers

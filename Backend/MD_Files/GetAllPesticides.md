@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/products
+POST /user/ViewAllProducts
 ```
 
 ## Request Headers
@@ -18,6 +18,7 @@ Content-Type : application/json
 200 - ok
 Body
 {
+    {
         "id": int,
         "discount": int,
         "beforediscount": int,
@@ -26,6 +27,7 @@ Body
         "productName": "String",
         "productCompanyName": "String"
     }
+}
 
 400 - Bad Request - Incorrect data fetching
 403 - Forbidden

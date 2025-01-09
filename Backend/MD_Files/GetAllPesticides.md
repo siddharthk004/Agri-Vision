@@ -26,6 +26,15 @@ Body
         "productImage": "String",
         "productName": "String",
         "productCompanyName": "String"
+    },
+    {
+        "id": int,
+        "discount": int,
+        "beforediscount": int,
+        "afterdiscount": int,
+        "productImage": "String",
+        "productName": "String",
+        "productCompanyName": "String"
     }
 }
 

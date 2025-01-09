@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/ViewFertilizer/{id}
+GET /user/ViewFertilizer/{id}
 ```
 
 ## Request Headers

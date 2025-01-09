@@ -11,7 +11,7 @@ Content-Type : application/json
 ### Request Body
 ``` json
 {
-    "name": "string",
+    "username": "string",
     "email": "string",
     "password": "string",
 }
@@ -19,6 +19,12 @@ Content-Type : application/json
 ## Response
 ```
 200-Created
+
+Body
+{
+    "message": 'User registered Successfully!',
+}
+
 ```
 400 - Bad Request - Invalid Registration Information
 

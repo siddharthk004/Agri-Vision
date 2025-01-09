@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/ViewAllFertilizer
+GET /user/ViewAllFertilizer
 ```
 
 ## Request Headers

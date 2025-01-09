@@ -1,6 +1,6 @@
 ## Login API
 ```
-POST /user/ViewAllPesticides
+GET /user/ViewAllPesticides
 ```
 
 ## Request Headers

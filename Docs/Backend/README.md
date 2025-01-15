@@ -96,7 +96,7 @@ Takes details of products and add it into database and returns success message.
 
 #
 
-#### View All Products of Cart - Siddharth Kardile
+#### View All Products of Cart - Siddharth Kardile 
 
 ```http
   POST /user/ViewAllcart

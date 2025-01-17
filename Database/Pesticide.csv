@@ -1,0 +1,62 @@
+id,afterdiscount,beforediscount,discount,productcompanyname,productimage,productname,user_id
+1,149,225,34,Monsanto,https://cdn.shopify.com/s/files/1/0722/2059/files/Roundup-04_AadyaVarma.jpg?v=1734406495&width=256,Round-Up,NULL
+2,1517,2605,42,"Best Agro",https://cdn.shopify.com/s/files/1/0722/2059/products/Seafer_57238b7c-9150-420b-a165-daf776c14543.jpg?v=1681375717&width=256,"RONFEN ",NULL
+3,654,710,8,Iffco,https://cdn.shopify.com/s/files/1/0722/2059/files/2_dba7ab84-b5d0-41ab-a222-14bd3401c92f.png?v=1695382619&width=256,"SHIMO ",NULL
+4,472,910,48,"Crystal Crop Protection",https://cdn.shopify.com/s/files/1/0722/2059/files/f0ee8dd13a48b3160df01e0fa1c505f7-03-09-24-17-53-26.jpg?v=1711365592&width=256,"Crystal Gramoxone",NULL
+5,1414,1799,21,Syngenta,https://cdn.shopify.com/s/files/1/0722/2059/files/incipio_BharathChiviki.png?v=1695792618&width=256,"INCIPIO INSECT",NULL
+6,129,150,14,BAYER,https://cdn.shopify.com/s/files/1/0722/2059/files/planofix_749.jpg?v=1736329842&width=256,"PLANFIX PLant ",NULL
+7,285,700,59,"GeoLife Agrotech",https://cdn.shopify.com/s/files/1/0722/2059/files/geolife-no-virus-organic-viricide_5135.jpg?v=1736329702&width=256,"Bio VIRICIDE",NULL
+8,288,371,22,"PL Industries",https://cdn.shopify.com/s/files/1/0722/2059/files/7_acc0c3e3-cdc8-4a84-bd36-e46750a9148b.webp?v=1689403931&width=256,"BIOVITA LIQUID",NULL
+9,765,850,10,"JANATHA AGRO",https://cdn.shopify.com/s/files/1/0722/2059/files/SPL1_LahariPeddiReddy.jpg?v=1724393192&width=256,"ORGANIC MARINE",NULL
+10,217,551,61,Dhanuka,https://cdn.shopify.com/s/files/1/0722/2059/files/8_c521672f-9355-4bda-8a24-c482722cd039.webp?v=1689403655&width=256,EM-1,NULL
+11,154,259,41,SYNGENTA,https://cdn.shopify.com/s/files/1/0722/2059/files/NewProduct_19.png?v=1689334193&width=256,"ISABIAN BIOSTIMUTANT",NULL
+12,179,198,6,VANPROZ,https://cdn.shopify.com/s/files/1/0722/2059/products/WhatsAppImage2023-03-28at6.20.18PM.jpg?v=1680010386&width=256,"V-BIND VERCIDE",NULL
+13,250,340,26,"KATYANINI ORGANICS",https://cdn.shopify.com/s/files/1/0722/2059/products/DSC_0297-resize-scaled.jpg?v=1681232668&width=256,"KATYAYANI ACTIVATED ",NULL
+14,940,1150,18,"GreenPeace Agro",https://cdn.shopify.com/s/files/1/0722/2059/products/Neemol_1b192a66-f958-46b4-a8e1-50ee6bf0b5c4.jpg?v=1676282521&width=256,"GReen NEemol AGS",NULL
+15,274,398,31,"KATYANI ORGANICS",https://cdn.shopify.com/s/files/1/0722/2059/files/WhatsApp_Image_2024-12-31_at_5.46.43_PM_1.jpg?v=1736244845&width=256,"PREMIUM KATAYANI",NULL
+16,108,170,36,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/products/1_14_29550538-a7cd-4a7e-bb89-a7213d3f8c97.webp?v=1672052747&width=256,"GENERAL MULTIPLEX ",NULL
+17,539,895,40,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard1copy10-5.webp?v=1673947965&width=256,"MAGNUM MN MICRO",NULL
+18,339,579,41,MARGO,https://cdn.shopify.com/s/files/1/0722/2059/products/2_08f108cf-dcb4-419a-a6ee-d2c08bbac0c5.jpg?v=1689743277&width=256,"ECONEEM PLUS",NULL
+19,577,830,30,GHARDA,https://cdn.shopify.com/s/files/1/0722/2059/products/BoxerrInsecticide.jpg?v=1674541348&width=256,"GHARDA BOXXET",NULL
+20,670,1073,38,NUHMENS,https://cdn.shopify.com/s/files/1/0722/2059/products/2_6b224488-1e97-457b-9cf4-46b0f06fd2b1.jpg?v=1679923942&width=256,"ARMOR CHILI F1",NULL
+21,167,220,24,FMC,https://cdn.shopify.com/s/files/1/0722/2059/files/coragen1_1.jpg?v=1734001818&width=256,"CORAGEN INSECTICIDE",NULL
+22,735,999,26,SYNGENTA,https://cdn.shopify.com/s/files/1/0722/2059/files/simodis-insecticide_13537.jpg?v=1736318323&width=256,"SIMODIS INSECTICIDE",NULL
+23,217,551,61,DHANUKA,https://cdn.shopify.com/s/files/1/0722/2059/files/8_c521672f-9355-4bda-8a24-c482722cd039.webp?v=1689403655&width=256,"EM-1 INSECTICIDE",NULL
+24,199,238,16,UPL,https://cdn.shopify.com/s/files/1/0722/2059/files/5_3bb374db-b37b-4361-bd47-5caa39f32d76.png?v=1689404061&width=256,"PHOSKILL INSECTICIDE",NULL
+25,848,1078,21,FMC,https://cdn.shopify.com/s/files/1/0722/2059/files/benevia-insecticide_738.jpg?v=1736329739&width=256,"Benevia Insecticide",NULL
+26,582,704,17,BASF,https://cdn.shopify.com/s/files/1/0722/2059/products/Exponus.jpg?v=1669811651&width=256,"EXPONUS Insecticide",NULL
+27,177,216,18,DHANUKA,https://cdn.shopify.com/s/files/1/0722/2059/files/areva-insecticide_4667.png?v=1736329773&width=256,"AREVA Insecticide",NULL
+28,171,240,29,BAYER,https://cdn.shopify.com/s/files/1/0722/2059/files/jump-04_AadyaVarma.jpg?v=1735542154&width=256,"JUMP Insecticide",NULL
+29,369,450,18,BAYER,https://cdn.shopify.com/s/files/1/0722/2059/files/solomon_781.jpg?v=1736329868&width=256,"SOLOMON Insecticide",NULL
+30,102,124,18,FMC,https://cdn.shopify.com/s/files/1/0722/2059/files/Rogor-Insecticide-1_AadyaVarma.jpg?v=1736401484&width=256,"ROGOR Insecticide",NULL
+31,325,385,16,IFFCO,https://cdn.shopify.com/s/files/1/0722/2059/files/sagarika-gold_11846.png?v=1736330505&width=256,"SAGARIKA GOLD",NULL
+32,270,470,43,"Coromendal PROMO",https://cdn.shopify.com/s/files/1/0722/2059/files/fantac-plus-growth-promoter_10073.jpg?v=1736329658&width=256,"FANTAC PLUS",NULL
+33,260,375,31,SYNGENTA,https://cdn.shopify.com/s/files/1/0722/2059/files/Untitleddesign_1_73a4d9ee-cd6d-4c55-a6ce-89400285e884.png?v=1721027830&width=256,"CULTAR GROWTH",NULL
+34,154,259,41,SYNGENTA,https://cdn.shopify.com/s/files/1/0722/2059/files/NewProduct_19.png?v=1689334193&width=256,"Isabion Biostimulant",NULL
+35,129,150,14,BAYER,https://cdn.shopify.com/s/files/1/0722/2059/files/planofix_749.jpg?v=1736329842&width=256,"Panofix plant",NULL
+36,599,899,33,Sumitomo,https://cdn.shopify.com/s/files/1/0722/2059/products/1_45.webp?v=1672654989&width=256,"Hoshi Growth",NULL
+37,140,212,34,SYNGENTA,https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard1.webp?v=1672897137&width=256,"Quantis Biostimulant",NULL
+38,349,400,13,Vanproz,https://cdn.shopify.com/s/files/1/0722/2059/files/719mpqzGaQL._SY679.jpg?v=1687265180&width=256,"v-hume promo",NULL
+39,538,1050,49,"Hifield Chem",https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard1copy9_2.webp?v=1698576036&width=256,"HIFIELD GIBRAX",NULL
+40,465,714,35,"Corteva Agriscience",https://cdn.shopify.com/s/files/1/0722/2059/products/4_31.webp?v=1672227019&width=256,"CORTEVA CROP M",NULL
+41,1333,1800,26,BAYER,https://cdn.shopify.com/s/files/1/0722/2059/products/1_9_3ccd007e-3e10-44c1-b617-99f2b057f4ac.webp?v=1672052323&width=256,"ETHREL GROWTH",NULL
+42,219,230,5,"AMRUTH ORGANIC",https://cdn.shopify.com/s/files/1/0722/2059/files/WhatsAppImage2023-10-04at10.19.57_ChengalarayaJayasek.jpg?v=1696400040&width=256,"AMRUTH FLOWER",NULL
+43,628,655,4,"AMRUTH ORGANIC",https://cdn.shopify.com/s/files/1/0722/2059/files/9414955002e24e85d437e13de7561a8cac5af4544d331c954.jpg?v=1689246919&width=256,"AMRUTH COTTON G",NULL
+44,514,628,9,"AMRUTH ORGANIC",https://cdn.shopify.com/s/files/1/0722/2059/files/Adhaar_AkanshaSingh.png?v=1722411253&width=256,"AMRUTH ADHHAR",NULL
+45,279,480,42,"Bharat Agro",https://cdn.shopify.com/s/files/1/0722/2059/products/WhatsAppImage2021-06-12at6.08.27PM_1_e5fec94d-14d6-4e9c-a755-df03c204946d.jpg?v=1623924618&width=256,"BACF NUTRIXON C",NULL
+46,200,250,20,Vanproz,https://cdn.shopify.com/s/files/1/0722/2059/products/1_1_1.webp?v=1672989620&width=256,"Vanproz Immun",NULL
+47,703,773,9,"AMRUTH ORGANIC",https://cdn.shopify.com/s/files/1/0722/2059/products/ALZYME_e795ccb6-834f-4ee1-ba60-1bc547db9c08.jpg?v=1601729661&width=256,"AMRUTH ALZYME",NULL
+48,1707,2008,15,"ANAND AGRO",https://cdn.shopify.com/s/files/1/0722/2059/files/banana-special-768x768.jpg?v=1687266651&width=256,"ANAND BANANA",NULL
+49,550,899,39,"ESSENTIAL BIO",https://cdn.shopify.com/s/files/1/0722/2059/files/Untitleddesign-2024-10-22T131749.516_AkanshaSingh.png?v=1730116477&width=256,"EBS KMB POTASH",NULL
+50,549,850,35,"JAIPUR BIO",https://cdn.shopify.com/s/files/1/0722/2059/files/16.-Myco-Gold-4-kg_2__JahanaviRamesh.png?v=1733398510&width=256,"MYCO GOLD",NULL
+51,198,208,5,"AMRUTH ORGANIC",https://cdn.shopify.com/s/files/1/0722/2059/products/ADVENE.jpg?v=1601729528&width=256,"AMRUTH ADVEN",NULL
+52,439,999,56,"jappur bio",https://cdn.shopify.com/s/files/1/0722/2059/files/1.-Rhizo---F_LahariPeddiReddy.png?v=1729079779&width=256,"Samridhi Rhizobium",NULL
+53,240,250,4,"BHUMI AGRO",https://cdn.shopify.com/s/files/1/0722/2059/files/Untitleddesign_50__AkanshaSingh1.webp?v=1719900527&width=256,"MR RAJA",NULL
+54,149,190,22,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/files/multiplex-flower-booster_3828.jpg?v=1736329415&width=256,"Flower MULTI",NULL
+55,796,1880,58,"KATYAYANI ORGAN",https://cdn.shopify.com/s/files/1/0722/2059/files/1_3__LahariPeddiReddy.png?v=1716546430&width=256,"HUMIC ACID",NULL
+56,299,440,32,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/products/Liquid_Sulphur-min.png?v=1601732979&width=256,"SULPHUR LIQUID",NULL
+57,400,540,26,"MICROBI AGROTECH",https://cdn.shopify.com/s/files/1/0722/2059/products/4.jpg?v=1601731700&width=256,"DR SOIL BIJO",NULL
+58,104,150,31,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/files/3_2615513f-78ea-47ff-8cca-c1b5c6388861.png?v=1689404116&width=256,"KRANTI MICRO N",NULL
+59,108,170,36,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/products/1_14_29550538-a7cd-4a7e-bb89-a7213d3f8c97.webp?v=1672052747&width=256,"GENERAL LIQUID",NULL
+60,161,215,25,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard1copy5-3_1.webp?v=1673947018&width=256,"ALBOR 20 BORON",NULL
+61,206,210,2,MULTIPLEX,https://cdn.shopify.com/s/files/1/0722/2059/files/379f818d457d364af9989d5e2feef1b8.png?v=1686568916&width=256,"IRON MICRONUTRIENT",NULL

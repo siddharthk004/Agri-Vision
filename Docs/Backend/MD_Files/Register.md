@@ -1,4 +1,4 @@
-# User Registration API
+# User Registration API - Siddharth Kardile
 ```
 POST /user/register
 ```
@@ -14,6 +14,10 @@ Content-Type : application/json
     "username": "string",
     "email": "string",
     "password": "string",
+    "address": "string",
+    "contact": "string",
+    "endname": "string",
+    "occupation": "string",
 }
 ```
 ## Response

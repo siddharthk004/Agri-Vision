@@ -1,4 +1,4 @@
-## Profile API
+## Add Product Into Cart API - Siddharth Kardile
 ```
 POST /user/cart
 ```
@@ -29,6 +29,5 @@ Body
 }
 
 400 - Bad Request - Email Not Found
-403 - Forbidden
 404 - Not Found
 500 - Internal Server Error

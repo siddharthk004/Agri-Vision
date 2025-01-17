@@ -1,4 +1,4 @@
-## Login API
+## Delete WishList Products API - Siddharth Kardile
 ```
 DELETE /user/DeleteWishList/{id}
 ```
@@ -28,6 +28,5 @@ Body
       "success":false,
       "message": "Fail to Delete Wishlist Id : int"
 }
-403 - Forbidden
 404 - Not Found
 500 - Internal Server Error

@@ -1,4 +1,4 @@
-## Profile API
+## Profile API - Siddharth Kardile
 ```
 POST /user/editprofile
 ```
@@ -28,6 +28,5 @@ Body
 }
 
 400 - Bad Request - User Not Found
-403 - Forbidden
 404 - Not Found
 500 - Internal Server Error

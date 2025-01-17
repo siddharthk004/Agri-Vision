@@ -1,4 +1,4 @@
-## Profile API
+## View All WishList Products API - Siddharh Kardile
 ```
 POST /user/ViewAllWishlist
 ```
@@ -28,6 +28,5 @@ Body
 }
 
 400 - Bad Request - Email Not Found
-403 - Forbidden
 404 - Not Found
 500 - Internal Server Error

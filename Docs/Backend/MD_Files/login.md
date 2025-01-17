@@ -1,4 +1,4 @@
-# User Registration API
+# User Login API  - Siddharth Kardile
 ```
 POST /user/login
 ```

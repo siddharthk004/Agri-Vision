@@ -1,6 +1,6 @@
 ## Profile API
 ```
-POST /user/editprofile
+POST /user/wishlist
 ```
 
 ## Request Headers

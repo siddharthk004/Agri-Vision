@@ -1,18 +1,19 @@
 ## View All Cart Products API - Siddharh Kardile
 ```
-POST /user/ViewAllcart
+POST /viewAllCart
 ```
 
 ## Request Headers
 ```
 Content-Type : application/json
+Bearer <Token>
+
 ```
  
 ## Request Body
 ``` json 
-{
-  "email" : "String",
-}
+{}
+
 ```
 ## Response
 ```
@@ -27,6 +28,7 @@ Body
   "discount" : "String",
 }
 
-400 - Bad Request - Email Not Found
+400 - Bad Request - user Not Found
+401 - unauthorized
 404 - Not Found
 500 - Internal Server Error

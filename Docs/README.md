@@ -26,7 +26,7 @@
 Takes details of user and returns the success message for user can reedirect to login page.
 
 * Time - 1 Day
-* 10 Jan 2025
+* 12 Jan 2025
 
 #
  
@@ -43,61 +43,74 @@ Takes details of user and returns the success message for user can reedirect to 
 | `password` | `string` | **Required** |
 
 
-Takes username and password and returns the success message for user can reedirect to home page.
+Takes username and password and returns the success message And Token for user can reedirect to home page.
 
 * Time - 1 Day
-* 11 Jan 2025
+* 14 Jan 2025
+
+
 #
 
 ### View Profile - Siddharth Kardile
 
 ```http
-  POST /user/profile
+  POST /profile
 ```
+
+Bearer <Token>
+
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewProfile.md)
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `email`      | `string` | **Required** |
+| `Token`      | `string` | **Required** |
 
 
-Takes email id and returns the details of user profile.
+Takes Token and returns the details of user profile.
 
-* Time - 1 Day
-* 12 Jan 2025
+* Time - 2 Day
+* 23 Jan 2025
+
+
 #
 
 ### Edit Profile - Siddharth Kardile
 
 ```http
-  POST /user/editprofile
+  POST /editProfile
 ```
+
+Bearer <Token>
+
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/EditProfile.md)
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `email` | `string` | *Not Required*  |
 | `endname` | `string` | *Not Required* |
 | `address` | `string` | *Not Required*  |
 | `contact` | `string` | *Not Required* |
 | `occupation` | `string` | *Not Required* |
-| `image` | `BLOB` | *Not Required* |
 
 
 Takes details or any one field and update it and returns success message.
 
 
 * Time - 1 Day
-* 13 Jan 2025
+* 24 Jan 2025
+
+
+
 #
 
 ### Add Product Into Cart - Siddharth Kardile
 
 ```http
-  POST /user/cart
+  POST /addToCart
 ```
+
+Bearer <Token>
+
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddCartProduct.md)
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `email` | `string` |  **Required**  |
 | `productname` | `string` | **Required**  |
 | `productcompanyname` | `string` |  **Required**   |
 | `productimage` | `string` |  **Required**  |
@@ -107,29 +120,30 @@ Takes details or any one field and update it and returns success message.
 Takes details of products and add it into database and returns success message.
 
 * Time - 1 Day
-* 14 Jan 2025
+* 23 Jan 2025
 #
 
 ### View All Products of Cart - Siddharth Kardile
 
 ```http
-  POST /user/ViewAllcart
+  POST /viewAllCart
 ```
-[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllCartProducts.md)
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `email` | `string` |  **Required**  |
 
-Takes email and returns details of products.
+Bearer <Token>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllCartProducts.md)
+
+
+Takes token and returns details of products.
 
 * Time - 1 Day
-* 15 Jan 2025
+* 24 Jan 2025
 #
 
 ### Delete Product From Cart - Siddharth Kardile
 
 ```http
-  DELETE /user/DeleteCart/{id}
+  DELETE /user/deleteCart/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/DeleteCartById.md)
 | Parameter | Type     | Description                       |
@@ -139,20 +153,22 @@ Takes email and returns details of products.
 Takes id of products and delete it from database and returns success message.
 
 * Time - 1 Day
-* 16 Jan 2025
+* 25 Jan 2025
 
 #
 
 ### Add Product Into WishList - Siddharth Kardile
 
 ```http
-  POST /user/wishlist
+  POST /addToWishlist
 ```
+
+Bearer <Token>
+
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddWishlistProduct.md)
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `email` | `string` |  **Required**  |
 | `productname` | `string` | **Required**  |
 | `productcompanyname` | `string` |  **Required**   |
 | `productimage` | `string` |  **Required**  |
@@ -162,30 +178,31 @@ Takes id of products and delete it from database and returns success message.
 Takes details of products and add it into database and returns success message.
 
 * Time - 1 Day
-* 17 Jan 2025
+* 25 Jan 2025
 #
 
 ### View All Products of WishList - Siddharth Kardile
 
 ```http
-  POST /user/ViewAllWishList
+  POST /viewAllWishList
 ```
+
+Bearer <Token>
+
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllWishlistProducts.md)
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `email` | `string` |  **Required**  |
+
 
 Takes email and returns details of products.
 
 * Time - 1 Day
-* 18 Jan 2025
+* 24 Jan 2025
 
 #
 
 ### Delete Product From WishList - Siddharth Kardile
 
 ```http
-  DELETE /user/DeleteWishList/{id}
+  DELETE /user/deleteWishList/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/DeleteWishlistById.md)
 | Parameter | Type     | Description                       |
@@ -195,6 +212,6 @@ Takes email and returns details of products.
 Takes id of products and delete it from database and returns success message.
 
 * Time - 1 Day
-* 19 Jan 2025
+* 24 Jan 2025
 
 #

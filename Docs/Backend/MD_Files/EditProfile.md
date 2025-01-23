@@ -1,22 +1,22 @@
-## Profile API - Siddharth Kardile
+## Edit Profile API - Siddharth Kardile
 ```
-POST /user/editprofile
+POST /editProfile
 ```
 
 ## Request Headers
 ```
 Content-Type : application/json
+Bearer <Token>
+
 ```
  
 ## Request Body
 ``` json 
 {
-  "email" : "String",
   "endname" : "String",
   "address" : "String",
   "contact" : "String",
-  "occupation" : "String",
-  "image" : "BLOB"
+  "occupation" : "String"
 }
 ```
 ## Response
@@ -28,5 +28,6 @@ Body
 }
 
 400 - Bad Request - User Not Found
+401 - Unauthorized
 404 - Not Found
 500 - Internal Server Error

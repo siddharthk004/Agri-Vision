@@ -1,6 +1,6 @@
 ## Delete Cart Products API - Siddharth Kardile
 ```
-DELETE /user/DeleteCart/{id}
+DELETE /user/deleteCart/{id}
 ```
 
 ## Request Headers

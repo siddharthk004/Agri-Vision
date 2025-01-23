@@ -1,17 +1,18 @@
 ## Profile API - Siddharth  Kardile
 ```
-POST /user/profile
+POST /profile
 ```
 
 ## Request Headers
 ```
 Content-Type : application/json
+Bearer <Token>
+
 ```
  
 ## Request Body
 ``` json 
 {
-    "email" : "String"
 }
 ```
 ## Response
@@ -20,7 +21,7 @@ Content-Type : application/json
 Body
 {
   "username" : "String",
-  "image" : "BLOB"
+  "image" : "BLOB",
   "email" : "String",
   "endname" : "String",
   "address" : "String",
@@ -29,5 +30,6 @@ Body
 }
 
 400 - Bad Request - User Not Found
+401 - unauthorized 
 404 - Not Found
 500 - Internal Server Error

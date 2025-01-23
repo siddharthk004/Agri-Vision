@@ -1,6 +1,6 @@
 ## Delete WishList Products API - Siddharth Kardile
 ```
-DELETE /user/DeleteWishList/{id}
+DELETE /user/deleteWishList/{id}
 ```
 
 ## Request Headers

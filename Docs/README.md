@@ -57,7 +57,7 @@ Takes username and password and returns the success message And Token for user c
   POST /profile
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewProfile.md)
 | Parameter | Type     | Description                       |
@@ -79,7 +79,7 @@ Takes Token and returns the details of user profile.
   POST /editProfile
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/EditProfile.md)
 | Parameter | Type     | Description                       |
@@ -106,7 +106,7 @@ Takes details or any one field and update it and returns success message.
   POST /addToCart
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddCartProduct.md)
 | Parameter | Type     | Description                       |
@@ -129,7 +129,7 @@ Takes details of products and add it into database and returns success message.
   POST /viewAllCart
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllCartProducts.md)
 
@@ -163,7 +163,7 @@ Takes id of products and delete it from database and returns success message.
   POST /addToWishlist
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddWishlistProduct.md)
 
@@ -187,12 +187,12 @@ Takes details of products and add it into database and returns success message.
   POST /viewAllWishList
 ```
 
-Bearer <Token>
+Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllWishlistProducts.md)
 
 
-Takes email and returns details of products.
+Takes token and returns details of products.
 
 * Time - 1 Day
 * 24 Jan 2025

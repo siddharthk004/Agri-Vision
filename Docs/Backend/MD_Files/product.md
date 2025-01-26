@@ -1,17 +1,18 @@
-View All Product API - Sakshi Ladkat 
+
+# View All Product API - Sakshi Ladkat 
 POST /product
 
-Request Header
+### Request Header
 Content-Type : application/json
 
-Request Body 
+### Request Body 
 {
 
 }
 
 200-ok
 
-Response
+### Response
 {
         "id": int,
         "discount": int,
@@ -27,4 +28,3 @@ Response
 400 - Bad Request 
 404 - Not Found
 500 - Internal Server Error
-

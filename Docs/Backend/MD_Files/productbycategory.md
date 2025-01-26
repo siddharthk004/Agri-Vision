@@ -1,17 +1,17 @@
-View Product By category API - Sakshi Ladkat 
+# View Product By category API - Sakshi Ladkat 
 POST /product/category/{category}
 
-Request Header
+### Request Header
 Content-Type : application/json
 
-Request Body 
+### Request Body 
 {
 
 }
 
 200-ok
 
-Response
+### Response
 {
         "id": int,
         "discount": int,

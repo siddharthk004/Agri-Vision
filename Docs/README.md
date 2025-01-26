@@ -198,3 +198,73 @@ Takes id of products and delete it from database and returns success message.
 * 19 Jan 2025
 
 #
+
+#
+#### View all product - Sakshi Ladkat 
+
+```http
+ POST /product
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/product.md)
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Fetch All product listed in database
+* Time - 2 Day
+* 12 Jan 2025
+#
+
+#
+#### View product by id  - Sakshi Ladkat 
+
+```http
+ POST /product/id/{id}
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/productbyid.md)
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Take id in API fetch product by id
+* Time - 2 Day
+* 15 Jan 2025
+#
+
+#
+#### View product by Category  - Sakshi Ladkat 
+
+```http
+  POST /product/category/{category}
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/productbycategory.md)
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Take categoty in API fetch product by category
+* Time - 1 Day
+* 16 Jan 2025
+#
+

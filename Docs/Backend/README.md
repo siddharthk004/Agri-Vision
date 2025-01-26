@@ -173,7 +173,7 @@ Takes id of products and delete it from database and returns success message.
 #
 
 #
-####View all product - Sakshi Ladkat 
+#### View all product - Sakshi Ladkat 
 
 ```http
  POST /product
@@ -193,7 +193,7 @@ Fetch All product listed in database
 #
 
 #
-####View product by id  - Sakshi Ladkat 
+#### View product by id  - Sakshi Ladkat 
 
 ```http
  POST /product/id/{id}
@@ -212,7 +212,7 @@ Take id in API fetch product by id
 #
 
 #
-####View product by Category  - Sakshi Ladkat 
+#### View product by Category  - Sakshi Ladkat 
 
 ```http
   POST /product/category/{category}

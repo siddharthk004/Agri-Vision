@@ -171,3 +171,62 @@ Takes email and returns details of products.
 Takes id of products and delete it from database and returns success message.
 
 #
+
+#
+####View all product - Sakshi Ladkat 
+
+```http
+ POST /product
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Fetch All product listed in database
+#
+
+#
+####View product by id  - Sakshi Ladkat 
+
+```http
+ POST /product/id/{id}
+```
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Take id in API fetch product by id
+#
+
+#
+####View product by Category  - Sakshi Ladkat 
+
+```http
+  POST /product/category/{category}
+```
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `id` | `int` | **Required** |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Take categoty in API fetch product by category
+#
+

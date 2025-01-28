@@ -294,7 +294,7 @@ Adds new Entry into the database
 #
 ### Update product  - Sakshi Ladkat 
 
-```
+```http
   POST /admin/updateproduct/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/updateproduct.md)
@@ -318,7 +318,7 @@ Updates Existing Entry into the database
 #
 #### Delete product  - Sakshi Ladkat 
 
-```
+```http
   POST /admin/deleteproduct/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/Deleteproduct.md)

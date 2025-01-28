@@ -29,8 +29,7 @@ Takes details of user and returns the success message for user can reedirect to 
 
 # Wire Frame By Atharva Khaladkar
 
-(https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/FrontEnd/Wireframe/Sign-up.png)
-
+<img width="350" src="https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/FrontEnd/Wireframe/Sign-up.png">
 #
 
 ### 2 Login Api - Siddharth Kardile

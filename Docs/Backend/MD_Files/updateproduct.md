@@ -2,9 +2,15 @@
 #
 #### Update product  - Sakshi Ladkat 
 
-```http
+```
   POST /admin/updateproduct/{id}
 ```
+
+### Request Header
+```
+Content-Type : application/json
+```
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 |`discount`|`int`|**Required**|

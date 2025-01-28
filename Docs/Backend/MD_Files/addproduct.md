@@ -2,9 +2,15 @@
 #
 #### Add product  - Sakshi Ladkat 
 
-```http
+```
   POST /admin/addproduct
 ```
+### Request Header
+```
+Content-Type : application/json
+```
+
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 |`discount`|`int`|**Required**|
@@ -13,6 +19,7 @@
 |`productImage`|`string`|**Required**|
 |`category`|`string`|**Required**|
 |`productCompanyName`|`string`|**Required**|
+
 
 ### Request Body 
 ```
@@ -32,7 +39,7 @@
 ### Response
 ```
 {
-    
+
 }
 
 ```

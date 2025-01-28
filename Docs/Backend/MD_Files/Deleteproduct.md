@@ -2,9 +2,14 @@
 #
 #### Delete product  - Sakshi Ladkat 
 
-```http
+```
   POST /admin/deleteproduct/{id}
 ```
+### Request Header
+```
+Content-Type : application/json
+```
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 |`discount`|`int`|**Required**|

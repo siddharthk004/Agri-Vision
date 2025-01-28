@@ -200,7 +200,7 @@ Takes id of products and delete it from database and returns success message.
 #
 
 #
-#### View all product - Sakshi Ladkat 
+### View all product - Sakshi Ladkat 
 
 ```http
  POST /product
@@ -223,7 +223,7 @@ Fetch All product listed in database
 #
 
 #
-#### View product by id  - Sakshi Ladkat 
+### View product by id  - Sakshi Ladkat 
 
 ```http
  POST /product/id/{id}
@@ -246,7 +246,7 @@ Take id in API fetch product by id
 #
 
 #
-#### View product by Category  - Sakshi Ladkat 
+### View product by Category  - Sakshi Ladkat 
 
 ```http
   POST /product/category/{category}
@@ -269,17 +269,14 @@ Take categoty in API fetch product by category
 #
 
 #
-#### Add product  - Sakshi Ladkat 
+### Add product  - Sakshi Ladkat 
 
 ```http
   POST /admin/addproduct
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/addproduct.md)
 
-### Request Header
-```
-Content-Type : application/json
-```
+
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -295,17 +292,14 @@ Adds new Entry into the database
 * 19 Jan 2025
 #
 #
-# Update product  - Sakshi Ladkat 
+### Update product  - Sakshi Ladkat 
 
 ```
   POST /admin/updateproduct/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/updateproduct.md)
 
-### Request Header
-```
-Content-Type : application/json
-```
+
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -322,17 +316,14 @@ Updates Existing Entry into the database
 #
 
 #
-# Delete product  - Sakshi Ladkat 
+#### Delete product  - Sakshi Ladkat 
 
 ```
   POST /admin/deleteproduct/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/Deleteproduct.md)
 
-### Request Header
-```
-Content-Type : application/json
-```
+
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |

@@ -1,0 +1,456 @@
+[33mcommit 2d70b9f5acc26aab8f88bde9212cd9f31d0d32b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/Atharva[m[33m)[m
+Author: Atharva Khaladkar <atharva.khaladkar30@gmail.com>
+Date:   Tue Jan 28 16:47:24 2025 +0530
+
+    Changes
+
+[33mcommit b6142c54ea90642ef917c5678461336362da8608[m
+Author: Atharva Khaladkar <atharva.khaladkar30@gmail.com>
+Date:   Tue Jan 28 16:41:15 2025 +0530
+
+    Wireframe add -Atharva
+
+[33mcommit d791139ed7faf1ef63f4070ab35ff2a62bed83bc[m
+Author: Atharva Khaladkar <atharva.khaladkar30@gmail.com>
+Date:   Tue Jan 28 16:37:39 2025 +0530
+
+    Wireframe add -Atharva
+
+[33mcommit b399db2c896df298cd178264072c1068495c1a37[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Tue Jan 28 12:00:00 2025 +0530
+
+    Your commit message
+
+[33mcommit d5f50d9b6a114c02ccc8b41e4b32afb066cf2bae[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Mon Jan 27 12:00:00 2025 +0530
+
+    Your commit message
+
+[33mcommit 22b1b3ef98dc95907650df5957da18595bf82b66[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Thu Jan 23 18:52:31 2025 +0530
+
+    First 10 Api full SetUp
+
+[33mcommit 2ce6ac45647f98efe47a4181f603402c36b24360[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Thu Jan 23 18:22:28 2025 +0530
+
+    First 10 Api full SetUp
+
+[33mcommit 3e7a595b8773160d067575350217b9d183790b64[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Wed Jan 15 10:00:00 2025 +0530
+
+    reupload commit
+
+[33mcommit 9ba343dc72507a45b37ac37fec03706376f1cf8f[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 19 14:02:06 2025 +0530
+
+    Delete Frontend directory
+
+[33mcommit 0087fc78854d009a404e498ed3a813f3d93b6aac[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 19 14:01:56 2025 +0530
+
+    Delete Backend directory
+
+[33mcommit 98c5926de519e59acce3ba3df7a12d764e0a7e74[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 19 13:45:21 2025 +0530
+
+    Update README.md
+
+[33mcommit ae2bc34250f7256424b50287c2e97d942de94dfa[m
+Merge: 8d02f24 4e61b01
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Sun Jan 19 13:45:06 2025 +0530
+
+    Merge https://github.com/siddharthk004/Agri-Vision
+
+[33mcommit 8d02f247cc1bbc4e124b4317f06d24e602b84b55[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Sun Jan 19 13:42:12 2025 +0530
+
+    completed First 5 Api
+
+[33mcommit 4e61b01f7fb61c4d8b43d3a8bca3c3fcc5a64812[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 18 09:53:44 2025 +0530
+
+    Update README.md
+
+[33mcommit 81f35a406c5a7724729578476e109c64143364c7[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 18 09:53:07 2025 +0530
+
+    Update README.md
+
+[33mcommit 3dcac8f6733667189d0b86d684543bd7007fdca3[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Sat Jan 18 09:48:19 2025 +0530
+
+    Edit in ReadMe File | Siddharth Kardile | 18-Jan | 9 : 47 AM
+
+[33mcommit 5c3cb3d8fef4fe9423e508c0aebd330ed8bb8368[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Fri Jan 17 22:38:51 2025 +0530
+
+    Edit in ReadMe File and Upload New Api | Siddharth Kardile | 17-Jan | 1 pm
+
+[33mcommit 159a313e0b24ad0d2ef488fa5492e14ce83c274f[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Fri Jan 17 13:57:18 2025 +0530
+
+    File Structure Upload by Siddharth Kardile 17-Jan 1 pm
+
+[33mcommit ed79171fff3d4228b227acee77f4478dcd882a24[m
+Author: siddharthk004 <siddharthkardile5@gmail.com>
+Date:   Fri Jan 17 13:07:37 2025 +0530
+
+    File Structure Upload by Siddharth Kardile 17-Jan 1 pm
+
+[33mcommit d3318d4349e63aab8e2912949bba6f005596102f[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:49:42 2025 +0530
+
+    Create DeleteCartById.md
+
+[33mcommit 49870ef32423187faa39313e04ced4cd294ca8ed[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:48:57 2025 +0530
+
+    Create DeleteWishlistById.md
+
+[33mcommit 29940c9bb6844509438e5ff76de7cb8177984e22[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:47:25 2025 +0530
+
+    Create ViewAllCartProducts.md
+
+[33mcommit eba20a4156602e64196f9f002a277fc29fe57077[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:46:31 2025 +0530
+
+    Create AddCartProduct.md
+
+[33mcommit 97cfce70687792350ec5db2efb7488901c81a77f[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:46:02 2025 +0530
+
+    Update AddWishlistProduct,md
+
+[33mcommit 4d825435c8ee19107bc55fb5c55fc95aac5a5d9c[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:44:05 2025 +0530
+
+    Create EmailRepetationCart.md
+
+[33mcommit c6f16a702a05bf7eaba5b1464147105255445c4d[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:43:25 2025 +0530
+
+    Create CountEmailRepetation.md
+
+[33mcommit ebab0a86a734b0fb31b47a965da7ee42e0509955[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:41:55 2025 +0530
+
+    Create ViewAllWishlistProducts.md
+
+[33mcommit eb28d7d545b2f5ae4c29c069e648975af7d967b9[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:40:44 2025 +0530
+
+    Create AddWishlistProduct,md
+
+[33mcommit 4fde47c2dd237c10d1f25581851296cde36e6c5d[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:38:46 2025 +0530
+
+    Create EditProfile.md
+
+[33mcommit 06cd374f466228d55aa2f586876e3cef96847ed9[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:36:28 2025 +0530
+
+    Create CheakMailSystem.md
+
+[33mcommit be5b300fafdd2422b546ea52a4ee008ff23fbb51[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:35:06 2025 +0530
+
+    Create ViewProfile.md
+
+[33mcommit de69d6948e57ad04c63cc135c4a95fe22a72bace[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:29:01 2025 +0530
+
+    Create GetAllUserData.md
+
+[33mcommit ef6ee57f651cb0350b098382c29885c3010fed59[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Fri Jan 17 11:27:07 2025 +0530
+
+    Create SaveNewUser.md
+
+[33mcommit b1488a5e08ed9be78d2428197fe22dfb2a00c18d[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 16 21:16:58 2025 +0530
+
+    Update README.md
+
+[33mcommit cc221dcc036e1b719f571333f53183cacd3338c5[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:46:11 2025 +0530
+
+    Create HomePage.md
+
+[33mcommit 50eb771050638818e6c4717eaeb98d36773d7573[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:43:50 2025 +0530
+
+    Create SearchProducts.md
+
+[33mcommit a3f0b1defb5f686f66e1b0597d56e3bc096f3536[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:42:11 2025 +0530
+
+    Create HelpCenter.md
+
+[33mcommit 347cbc04aa977435990258e808757766efcb5a14[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:40:05 2025 +0530
+
+    Create ViewBioFertilizerById.md
+
+[33mcommit 2d54fa93cd1545d06453f58a3222705017ca866a[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:39:26 2025 +0530
+
+    Create ViewInsecticideById.md
+
+[33mcommit 03c0759f614af32ccb0cf776677b0710aff52d00[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:38:55 2025 +0530
+
+    Create ViewNutrientById.md
+
+[33mcommit ee3e10be9102efed0ae0acde7acf83fcebc06faf[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:38:20 2025 +0530
+
+    Create ViewBoosterById.md
+
+[33mcommit a9775df6a70a8a4a3f18434d89da84bcef75c203[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:37:51 2025 +0530
+
+    Create ViewHerbicideById.md
+
+[33mcommit 1ccd6d6af3b0895b29607c438cbde96b00ecbd94[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:37:22 2025 +0530
+
+    Create ViewFungicideById.md
+
+[33mcommit c1af19832411180a2d311464b29d02977a6e910d[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sun Jan 12 16:36:44 2025 +0530
+
+    Create ViewOrganicFarmById.md
+
+[33mcommit 3c7e511c8dcb8e9def99ded9596515b478693b10[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:29:46 2025 +0530
+
+    Rename Fungicide.md to ViewAllFungicide.md
+
+[33mcommit 41a6c824e6f90da299aa7b91705e385de65733da[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:29:33 2025 +0530
+
+    Rename Herbicide.md to ViewAllHerbicide.md
+
+[33mcommit b9f2960642ff22e25bcd851cb36a986c5e40a045[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:29:13 2025 +0530
+
+    Create ViewAllInsecticide.md
+
+[33mcommit 82f50487c724f494dd613ac9f653a749f432e839[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:28:35 2025 +0530
+
+    Create ViewAllNutrient.md
+
+[33mcommit 49c43938d5a4bf2ecf4ee09178122a02c2cfee1f[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:28:03 2025 +0530
+
+    Create ViewAllBooster.md
+
+[33mcommit f9a043fa280ae0a4f1992c4bdff73b5ee913a778[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:27:29 2025 +0530
+
+    Create Herbicide.md
+
+[33mcommit 8f662bebd4a81abce026aa0a3b622288b12fe347[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:26:56 2025 +0530
+
+    Create Fungicide.md
+
+[33mcommit 6132da597b2b1569ec7486479d6028a74471602c[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:25:35 2025 +0530
+
+    Create ViewAllOrganicFarm.md
+
+[33mcommit 8f342387dc592639083ce3bb68d38a52bf1b95f8[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Sat Jan 11 09:24:43 2025 +0530
+
+    Create ViewAllBioFertilizer.md
+
+[33mcommit 5e18f774146a60ff55fafbbf28848c54b9ea80eb[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 18:20:38 2025 +0530
+
+    Create HelpService.md
+
+[33mcommit 0e67407a6ae533ba0574b643d36594a20ae18aeb[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:42:22 2025 +0530
+
+    Update ViewPesticideByID.md
+
+[33mcommit e5cd58608cf011bf913d20347644cfeb7b40fae2[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:42:04 2025 +0530
+
+    Update ViewFertilizerById.md
+
+[33mcommit 1f4bc84e5d6a5688c9b361c117d6f06a8c50e6e6[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:41:43 2025 +0530
+
+    Update ViewAllPesticides.md
+
+[33mcommit 8a5cbf209982ff113dd95e770f5a262e197c57eb[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:41:26 2025 +0530
+
+    Update DeletePesticideById.md
+
+[33mcommit 09368c8124d4fdda0a805d422c2ac4ba7781ad7c[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:41:06 2025 +0530
+
+    Update DeleteFertilizerById.md
+
+[33mcommit 55aad55b552cc3de15cee0b4f84c25384a3fc73f[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:40:51 2025 +0530
+
+    Update ViewAllFertilizer.md
+
+[33mcommit ac76bf4cb2efb2553d10be5294893623e42304f2[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:29:49 2025 +0530
+
+    Create AddFertilizer.md
+
+[33mcommit b25a8fe69e49bfb5bfd6ffd18fec44f8756f20b3[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:29:08 2025 +0530
+
+    Create DeleteFertilizerById.md
+
+[33mcommit e07fc812a9e6f0fcc783196e4d94f6964797c337[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:28:04 2025 +0530
+
+    Create ViewAllFertilizer.md
+
+[33mcommit f5b5182b4e4b72c2981f52ff8d4322ebfcb3dec7[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:27:14 2025 +0530
+
+    Create ViewFertilizerById.md
+
+[33mcommit 17e088d14ef76481956d16ae81c9aa005aaed0de[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:22:59 2025 +0530
+
+    Create DeletePesticideById.md
+
+[33mcommit 7f92b095d2b6a62d5d67adeefd15bc7c986883ab[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:19:42 2025 +0530
+
+    Update and rename ViewProductByID.md to ViewPesticideByID.md
+
+[33mcommit ff9e3b100a63e155b3536741dcdf3b8f74ab3e97[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 14:18:25 2025 +0530
+
+    Update and rename GetAllPesticides.md to ViewAllPesticides.md
+
+[33mcommit e6d05549c3eeb6388f6b27a608afa351c12eb468[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 13:50:12 2025 +0530
+
+    Create ViewProductByID.md
+
+[33mcommit d7f0e3c510afc01d9ed9c2e7172b983d4e22b590[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 13:32:08 2025 +0530
+
+    Update GetAllPesticides.md
+
+[33mcommit 8bf7112c8ef6c4a4360787535ddbd6f4d1f8c09e[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 13:31:43 2025 +0530
+
+    Create AddPesticide.md
+
+[33mcommit eddd2937b907c30aededc77a68b913558bb54821[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 13:29:36 2025 +0530
+
+    Update and rename pesticide.md to GetAllPesticides.md
+
+[33mcommit 43b2e982afb52ce9ba6dc8080f0a2e70c00d643e[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 11:55:52 2025 +0530
+
+    Create pesticide.md
+
+[33mcommit 7b7b0fc1fcd3c66cce38f1f3680add06df9e1624[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 10:43:27 2025 +0530
+
+    Create login.md
+
+[33mcommit d2611798ac21b488670abc64a483b84321f260cf[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Thu Jan 9 10:41:25 2025 +0530
+
+    Update Register.md
+
+[33mcommit b0ed5b2f34f41a3c769a6e4a7d56f2286811df56[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Wed Jan 8 14:44:54 2025 +0530
+
+    Create Register.md
+
+[33mcommit 2aa086247c45b6e175ab98d1c983bb089715a7f0[m
+Author: kardile siddharth satish <127118293+siddharthk004@users.noreply.github.com>
+Date:   Wed Jan 8 14:25:17 2025 +0530
+
+    Initial commit

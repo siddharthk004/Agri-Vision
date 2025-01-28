@@ -4,7 +4,7 @@
 
 #
 
-### Register Api - Siddharth Kardile
+### 1 Register Api - Siddharth Kardile
 
 ```http
   POST /user/register
@@ -26,11 +26,14 @@ Takes details of user and returns the success message for user can reedirect to 
 
 - Time - 1 Day
 - 12 Jan 2025
-  (https://github.com/siddharthk004/Agri-Vision/blob/Atharva/Docs/FrontEnd/Wireframe/Cart.png)
+
+# Wire Frame By Atharva Khaladkar
+
+(https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/FrontEnd/Wireframe/Sign-up.png)
 
 #
 
-### Login Api - Siddharth Kardile
+### 2 Login Api - Siddharth Kardile
 
 ```http
   POST /user/login
@@ -50,13 +53,13 @@ Takes username and password and returns the success message And Token for user c
 
 #
 
-### View Profile - Siddharth Kardile
+### 3 View Profile - Siddharth Kardile
 
 ```http
   POST /profile
 ```
+Bearer Token <Autherization>
 
-Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewProfile.md)
 | Parameter | Type | Description |
@@ -70,13 +73,13 @@ Takes Token and returns the details of user profile.
 
 #
 
-### Edit Profile - Siddharth Kardile
+### 4 Edit Profile - Siddharth Kardile
 
 ```http
   POST /editProfile
 ```
 
-Bearer Token
+Bearer Token <Autherization>
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/EditProfile.md)
 | Parameter | Type | Description |
@@ -93,13 +96,13 @@ Takes details or any one field and update it and returns success message.
 
 #
 
-### Add Product Into Cart - Siddharth Kardile
+### 5 Add Product Into Cart - Siddharth Kardile
 
 ```http
   POST /addToCart
 ```
+Bearer Token <Autherization>
 
-Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddCartProduct.md)
 | Parameter | Type | Description |
@@ -117,13 +120,13 @@ Takes details of products and add it into database and returns success message.
 
 #
 
-### View All Products of Cart - Siddharth Kardile
+### 6 View All Products of Cart - Siddharth Kardile
 
 ```http
   POST /viewAllCart
 ```
+Bearer Token <Autherization>
 
-Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllCartProducts.md)
 
@@ -134,7 +137,7 @@ Takes token and returns details of products.
 
 #
 
-### Delete Product From Cart - Siddharth Kardile
+### 7 Delete Product From Cart - Siddharth Kardile
 
 ```http
   DELETE /user/deleteCart/{id}
@@ -152,13 +155,13 @@ Takes id of products and delete it from database and returns success message.
 
 #
 
-### Add Product Into WishList - Siddharth Kardile
+### 8 Add Product Into WishList - Siddharth Kardile
 
 ```http
   POST /addToWishlist
 ```
+Bearer Token <Autherization>
 
-Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddWishlistProduct.md)
 
@@ -177,13 +180,13 @@ Takes details of products and add it into database and returns success message.
 
 #
 
-### View All Products of WishList - Siddharth Kardile
+### 9 View All Products of WishList - Siddharth Kardile
 
 ```http
   POST /viewAllWishList
 ```
+Bearer Token <Autherization>
 
-Bearer Token
 
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllWishlistProducts.md)
 
@@ -194,7 +197,7 @@ Takes token and returns details of products.
 
 #
 
-### Delete Product From WishList - Siddharth Kardile
+### 10 Delete Product From WishList - Siddharth Kardile
 
 ```http
   DELETE /user/deleteWishList/{id}
@@ -213,7 +216,7 @@ Takes id of products and delete it from database and returns success message.
 #
 
 #
-### View all product - Sakshi Ladkat 
+### 11 View all product - Sakshi Ladkat 
 
 ```http
  POST /product
@@ -236,7 +239,7 @@ Fetch All product listed in database
 #
 
 #
-### View product by id  - Sakshi Ladkat 
+### 12 View product by id  - Sakshi Ladkat 
 
 ```http
  POST /product/id/{id}
@@ -259,7 +262,7 @@ Take id in API fetch product by id
 #
 
 #
-### View product by Category  - Sakshi Ladkat 
+### 13 View product by Category  - Sakshi Ladkat 
 
 ```http
   POST /product/category/{category}
@@ -282,7 +285,7 @@ Take categoty in API fetch product by category
 #
 
 #
-### Add product  - Sakshi Ladkat 
+### 14 Add product  - Sakshi Ladkat 
 
 ```http
   POST /admin/addproduct
@@ -305,7 +308,7 @@ Adds new Entry into the database
 * 19 Jan 2025
 #
 #
-### Update product  - Sakshi Ladkat 
+### 15 Update product  - Sakshi Ladkat 
 
 ```http
   POST /admin/updateproduct/{id}
@@ -329,7 +332,7 @@ Updates Existing Entry into the database
 #
 
 #
-#### Delete product  - Sakshi Ladkat 
+#### 16 Delete product  - Sakshi Ladkat 
 
 ```http
   POST /admin/deleteproduct/{id}
@@ -350,4 +353,73 @@ Updates Existing Entry into the database
 Delete Existing Entry into the database 
 * Time - 2 Day
 * 26 Jan 2025
+#
+
+### 17 Edit Profile Picture - Siddharth Kardile
+
+```http
+  POST /editProfilePic
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/EditProfilePic.md)
+| Parameter | Type | Description |
+| :-------- | :------- | :-------------------------------- |
+| `image` | `multipart` |   **Required** |
+
+
+- Time - 1 Day
+- 27 Jan 2025
+
+#
+### 18 Otp Send Through Email - Siddharth Kardile
+
+```http
+  POST /user/forgotPassword/MailOTP
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ForgotPWDMailOTP.md)
+
+
+- Time - 1 Day
+- 27 Jan 2025
+
+#
+### 19 Otp Verify - Siddharth Kardile
+
+```http
+  POST /user/forgotPassword/OTP
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ForgotPWDVerifyOTP.md)
+| Parameter | Type | Description |
+| :-------- | :------- | :-------------------------------- |
+| `otp` | `long` |   **Required** |
+
+- Time - 1 Day
+- 28 Jan 2025
+
+#
+
+### 20 Update PassWord - Siddharth Kardile
+
+```http
+  POST /user/forgotPassword/NewPassword
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ForgotPWDNewPWD.md)
+| Parameter | Type | Description |
+| :-------- | :------- | :-------------------------------- |
+| `password` | `String` |   **Required** |
+
+- Time - 1 Day
+- 29 Jan 2025
+
 #

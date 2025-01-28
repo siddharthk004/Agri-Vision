@@ -1,6 +1,6 @@
 
 #
-#### Add product  - Sakshi Ladkat 
+# Add product  - Sakshi Ladkat 
 
 ```
   POST /admin/addproduct

@@ -1,6 +1,6 @@
 
 #
-#### Update product  - Sakshi Ladkat 
+# Update product  - Sakshi Ladkat 
 
 ```
   POST /admin/updateproduct/{id}

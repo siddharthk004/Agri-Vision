@@ -268,3 +268,82 @@ Take categoty in API fetch product by category
 * 16 Jan 2025
 #
 
+#
+#### Add product  - Sakshi Ladkat 
+
+```http
+  POST /admin/addproduct
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/addproduct.md)
+
+### Request Header
+```
+Content-Type : application/json
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Adds new Entry into the database 
+* Time - 2 Day
+* 19 Jan 2025
+#
+#
+# Update product  - Sakshi Ladkat 
+
+```
+  POST /admin/updateproduct/{id}
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/updateproduct.md)
+
+### Request Header
+```
+Content-Type : application/json
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Updates Existing Entry into the database 
+* Time - 2 Day
+* 22 Jan 2025
+#
+
+#
+# Delete product  - Sakshi Ladkat 
+
+```
+  POST /admin/deleteproduct/{id}
+```
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/Deleteproduct.md)
+
+### Request Header
+```
+Content-Type : application/json
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+|`discount`|`int`|**Required**|
+|`beforediscount`|`int`|**Required**|
+|`afterdiscount`|`int`|**Required**|
+|`productImage`|`string`|**Required**|
+|`category`|`string`|**Required**|
+|`productCompanyName`|`string`|**Required**|
+
+Delete Existing Entry into the database 
+* Time - 2 Day
+* 26 Jan 2025
+#

@@ -1,6 +1,6 @@
 
 #
-#### Delete product  - Sakshi Ladkat 
+# Delete product  - Sakshi Ladkat 
 
 ```
   POST /admin/deleteproduct/{id}

@@ -218,7 +218,7 @@ Takes id of products and delete it from database and returns success message.
 ### 11 View all product - Sakshi Ladkat 
 
 ```http
- POST /product
+ POST /user/product
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/product.md)
 
@@ -238,10 +238,10 @@ Fetch All product listed in database
 #
 
 #
-### 12 View product by id  - Sakshi Ladkat 
+### 12 View product by id  - Sakshi Ladkat
 
 ```http
- POST /product/id/{id}
+ POST /user/product/id/{id}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/productbyid.md)
 
@@ -264,7 +264,7 @@ Take id in API fetch product by id
 ### 13 View product by Category  - Sakshi Ladkat 
 
 ```http
-  POST /product/category/{category}
+  POST /user/product/category/{category}
 ```
 [![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/Sakshi-ladkat/Docs/Backend/MD_Files/productbycategory.md)
 

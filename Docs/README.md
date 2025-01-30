@@ -418,3 +418,21 @@ Bearer Token <Autherization>
 - 29 Jan 2025
 
 #
+
+### 21 Admin Query Resolve Mail Send - Siddharth Kardile
+
+```http
+  POST /admin/queryResolveMail
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AdminQueryResolveMail.md)
+| Parameter | Type | Description |
+| :-------- | :------- | :-------------------------------- |
+| `message` | `String` |   **Required** |
+
+- Time - 1 Day
+- 30 Jan 2025
+
+#

@@ -306,6 +306,7 @@ Adds new Entry into the database
 * Time - 2 Day
 * 19 Jan 2025
 #
+
 #
 ### 15 Update product  - Sakshi Ladkat 
 
@@ -342,12 +343,7 @@ Updates Existing Entry into the database
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-|`discount`|`int`|**Required**|
-|`beforediscount`|`int`|**Required**|
-|`afterdiscount`|`int`|**Required**|
-|`productImage`|`string`|**Required**|
-|`category`|`string`|**Required**|
-|`productCompanyName`|`string`|**Required**|
+|`id`|`int`|**Required**|
 
 Delete Existing Entry into the database 
 * Time - 2 Day

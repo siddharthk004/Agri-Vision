@@ -436,3 +436,44 @@ Bearer Token <Autherization>
 - 30 Jan 2025
 
 #
+
+#
+### 22 Add Comment  - Siddharth Kardile 
+
+```http
+  POST /user/comment
+```
+
+Bearer Token <Autherization>
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddComment.md)
+
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+|`pid`|`Long`|**Required**|
+|`star`|`int`| *No Required*|
+|`message`|`String`|*No Required*|
+|`image`|`MultiPartFile`|*No Required*|
+|`video`|`MultiPartFile`|*No Required*|
+
+Add comment into DB also image and Video 
+* Time - 2 Day
+* 1 Feb 2025
+#
+
+### 23 View Comment  - Siddharth Kardile 
+
+```http
+  POST /user/commentview/{id}
+```
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewComment.md)
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+
+* Time - 1 Day
+* 2 Feb 2025
+
+#

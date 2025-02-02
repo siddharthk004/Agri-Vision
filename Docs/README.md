@@ -215,7 +215,7 @@ Takes id of products and delete it from database and returns success message.
 #
 
 #
-### 11 View all product - Sakshi Ladkat 
+### 1 View all product - Sakshi Ladkat 
 
 ```http
  POST /user/product
@@ -238,7 +238,7 @@ Fetch All product listed in database
 #
 
 #
-### 12 View product by id  - Sakshi Ladkat
+### 2 View product by id  - Sakshi Ladkat
 
 ```http
  POST /user/product/id/{id}
@@ -261,7 +261,7 @@ Take id in API fetch product by id
 #
 
 #
-### 13 View product by Category  - Sakshi Ladkat 
+### 3 View product by Category  - Sakshi Ladkat 
 
 ```http
   POST /user/product/category/{category}
@@ -284,7 +284,7 @@ Take categoty in API fetch product by category
 #
 
 #
-### 14 Add product  - Sakshi Ladkat 
+### 4 Add product  - Sakshi Ladkat 
 
 ```http
   POST /admin/addproduct
@@ -308,7 +308,7 @@ Adds new Entry into the database
 #
 
 #
-### 15 Update product  - Sakshi Ladkat 
+### 5 Update product  - Sakshi Ladkat 
 
 ```http
   POST /admin/updateproduct/{id}
@@ -332,7 +332,7 @@ Updates Existing Entry into the database
 #
 
 #
-#### 16 Delete product  - Sakshi Ladkat 
+#### 6 Delete product  - Sakshi Ladkat 
 
 ```http
   POST /admin/deleteproduct/{id}
@@ -350,7 +350,7 @@ Delete Existing Entry into the database
 * 26 Jan 2025
 #
 
-### 17 Edit Profile Picture - Siddharth Kardile
+### 11 Edit Profile Picture - Siddharth Kardile
 
 ```http
   POST /editProfilePic
@@ -368,7 +368,7 @@ Bearer Token <Autherization>
 - 27 Jan 2025
 
 #
-### 18 Otp Send Through Email - Siddharth Kardile
+### 12 Otp Send Through Email - Siddharth Kardile
 
 ```http
   POST /user/forgotPassword/MailOTP
@@ -383,7 +383,7 @@ Bearer Token <Autherization>
 - 27 Jan 2025
 
 #
-### 19 Otp Verify - Siddharth Kardile
+### 13 Otp Verify - Siddharth Kardile
 
 ```http
   POST /user/forgotPassword/OTP
@@ -401,7 +401,7 @@ Bearer Token <Autherization>
 
 #
 
-### 20 Update PassWord - Siddharth Kardile
+### 14 Update PassWord - Siddharth Kardile
 
 ```http
   POST /user/forgotPassword/NewPassword
@@ -419,7 +419,7 @@ Bearer Token <Autherization>
 
 #
 
-### 21 Admin Query Resolve Mail Send - Siddharth Kardile
+### 15 Admin Query Resolve Mail Send - Siddharth Kardile
 
 ```http
   POST /admin/queryResolveMail
@@ -438,7 +438,7 @@ Bearer Token <Autherization>
 #
 
 #
-### 22 Add Comment  - Siddharth Kardile 
+### 16 Add Comment  - Siddharth Kardile 
 
 ```http
   POST /user/comment
@@ -462,7 +462,7 @@ Add comment into DB also image and Video
 * 1 Feb 2025
 #
 
-### 23 View Comment  - Siddharth Kardile 
+### 17 View Comment  - Siddharth Kardile 
 
 ```http
   POST /user/commentview/{id}
@@ -475,5 +475,23 @@ Add comment into DB also image and Video
 
 * Time - 1 Day
 * 2 Feb 2025
+
+#
+
+### 18 Admin View service - Siddharth Kardile 
+
+```http
+  GET /admin/ViewHelpCenterList
+```
+
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/ViewAllServiceList.md)
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+
+get all service message in a list
+
+* Time - 1 Day
+* 3 Feb 2025
 
 #

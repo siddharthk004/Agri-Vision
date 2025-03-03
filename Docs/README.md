@@ -2,6 +2,10 @@
 
 ### Start From - https://spring-bootagrivision-production.up.railway.app/api/v1/auth
 
+# OR
+
+### Start From - https://spring-boot-agrivision-1.onrender.com/api/v1/auth
+
 #
 
 ### 1 Register Api - Siddharth Kardile

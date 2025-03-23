@@ -1,30 +1,28 @@
-## Add Product Into Cart API - Siddharth Kardile
+## Get Count Of Wishlist API - Siddharh Kardile
 ```
-POST /addToCart
+GET /user/wishlistCount
 ```
 
 ## Request Headers
 ```
 Content-Type : application/json
-bearer <token>  
 
 ```
+ 
 ## Request Body
 ``` json 
 {
-  "productId" : "Long"
 }
-
 ```
 ## Response
 ```
 200 - Success
 Body
 {
-  "message" : "String"
+  "count": int
 }
 
 400 - Bad Request - user Not Found
-401 - Unauthorized
+401 - unauthorized
 404 - Not Found
 500 - Internal Server Error

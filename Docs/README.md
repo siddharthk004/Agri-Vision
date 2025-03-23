@@ -127,7 +127,7 @@ Takes details of products and add it into database and returns success message.
 
 Bearer Token <Autherization>
 
-[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/AddCartProduct.md)
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/updateCartProduct.md)
 | Parameter | Type | Description |
 | :-------- | :------- | :-------------------------------- |
 | `productId` | `Long` | **Required** |
@@ -235,7 +235,7 @@ Takes id of products and delete it from database and returns success message.
   GET /user/cartCount
 ```
 
-[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/DeleteWishlistById.md)
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/GetCountOfCart.md)
 
 | Parameter | Type | Description |
 | :-------- | :------- | :-------------------------------- |
@@ -254,7 +254,7 @@ Takes id of products and delete it from database and returns success message.
   GET /user/wishlistCount
 ```
 
-[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/DeleteWishlistById.md)
+[![Portfolio](https://img.shields.io/badge/Git-MdFile-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://github.com/siddharthk004/Agri-Vision/blob/main/Docs/Backend/MD_Files/GetCountOfWishlist.md)
 
 | Parameter | Type | Description |
 | :-------- | :------- | :-------------------------------- |
@@ -687,7 +687,7 @@ Bearer Token <Autherization>
 | id   | `Long` | **Required** |
 | image   | `Multipart` | **Required** |
 
-- Time - 1 Day
+- Time - 1 Day 
 - 24 Mar 2025
 
 #

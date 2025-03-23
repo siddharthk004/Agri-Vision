@@ -11,7 +11,7 @@ Content-Type : application/json
 ## Request Body
 ``` json 
 {
-    "id" : int
+    "id" : Long
 }
 ```
 ## Response

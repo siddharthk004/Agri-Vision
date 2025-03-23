@@ -1,6 +1,6 @@
 ## View All Cart Products API - Siddharh Kardile
 ```
-POST /viewAllCart
+GET /viewAllCart
 ```
 
 ## Request Headers

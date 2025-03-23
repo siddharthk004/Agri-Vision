@@ -1,6 +1,6 @@
 ## Add Product Into WishList API - Siddharth Kardile
 ```
-POST /user/addToWishlist
+POST /user/wishlist/add
 ```
 
 ## Request Headers
@@ -13,12 +13,7 @@ Bearer <Token>
 ## Request Body
 ``` json 
 {
-  "productname" : "String",
-  "productcompanyname" : "String",
-  "productimage" : "String",
-  "afterdiscount" : "String",
-  "befoerdiscount" : "String",
-  "discount" : "String",
+  "productId" : "Long"
 }
 ```
 ## Response

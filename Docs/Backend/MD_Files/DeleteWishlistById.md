@@ -1,6 +1,6 @@
 ## Delete WishList Products API - Siddharth Kardile
 ```
-DELETE /user/deleteWishList/{id}
+DELETE /wishlist/delete/{id}
 ```
 
 ## Request Headers
@@ -11,7 +11,7 @@ Content-Type : application/json
 ## Request Body
 ``` json 
 {
-    "id" : int
+    "id" : Long
 }
 ```
 ## Response

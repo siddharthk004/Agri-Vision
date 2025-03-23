@@ -1,6 +1,6 @@
 ## View All WishList Products API - Siddharh Kardile
 ```
-POST /viewAllWishlist
+POST /wishlist/view
 ```
 
 ## Request Headers

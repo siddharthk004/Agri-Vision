@@ -20,13 +20,17 @@ Bearer <Token>
 200 - Success
 Body
 {
-  "productname" : "String",
-  "productcompanyname" : "String",
-  "productimage" : "String",
-  "afterdiscount" : "String",
-  "befoerdiscount" : "String",
-  "discount" : "String",
-}
+  "product" : {
+                "productname" : "String",
+                "productcompanyname" : "String",
+                "productimage" : "String",
+                "afterdiscount" : "String",
+                "befoerdiscount" : "String",
+                "discount" : "String",
+              },
+  "quantity" : "int",
+  "id" : "int"
+  }
 
 400 - Bad Request - user Not Found
 401 - unauthorized
